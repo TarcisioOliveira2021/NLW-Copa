@@ -1,0 +1,20 @@
+{
+  "name": "nlw-copa",
+  "version": "1.0.0",
+  "description": "Ultimo NLW de 2022, com a temática da copa do mundo !",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TarcisioOliveira2021/NLW-Copa.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TarcisioOliveira2021/NLW-Copa/issues"
+  },
+  "homepage": "https://github.com/TarcisioOliveira2021/NLW-Copa#readme"
+}
